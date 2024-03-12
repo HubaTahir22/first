@@ -6,7 +6,8 @@ public class firstHello {
 		int a=12;
 		int b =33;
 		int c= a+b;
-		System.out.println("Sum = " +c);
+		System.out.println("My first program!!");
+		System.out.println("Sum of two numbers = " +c);
 		
 	}
 
