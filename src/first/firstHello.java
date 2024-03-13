@@ -10,6 +10,8 @@ public class firstHello {
 		System.out.println("Sum of two numbers = " +c);
 		System.out.println("this program is written in bug fix!!");
 		System.out.println("this program is written in under Development!!");
+		int sub= a-b;
+		System.out.println("Subtraction of two numbers = " +sub);
 
 		
 	}
